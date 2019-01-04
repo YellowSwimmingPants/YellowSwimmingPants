@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">YellowSwimmingPants</string>
+    <string name="tvUserAccount">帳號：</string>
+    <string name="tvUserName">姓名：</string>
+    <string name="btFixInfo">修改資料</string>
+    <string name="tvPriority">權限：</string>
+    <string name="btManagement">使用者管理</string>
+    <string name="tvInputUserPassword">請輸入密碼：</string>
+    <string name="tvInputNewPassword">請輸入新密碼：</string>
+    <string name="tvInputNewPasswordAgain">請確認新密碼：</string>
+    <string name="btCommit">存擋</string>
+    <string name="btCancel">取消</string>
+    <string name="tvManager">管理者</string>
+    <string name="tvCommonUser">使用者</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
